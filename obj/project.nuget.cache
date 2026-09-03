@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Wv0FgQYpRQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Rimworld Modding\\Variable Speed\\VariableSpeed\\VariableSpeed\\VariableSpeed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\ilrepack.lib.msbuild.task\\2.0.46\\ilrepack.lib.msbuild.task.2.0.46.nupkg.sha512"
+  ],
+  "logs": []
+}
